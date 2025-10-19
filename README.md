@@ -20,7 +20,8 @@ Acesse o Swagger:
 
 ## 🧩 Diagrama da Arquitetura
 
-![architecture](docs/architecture.png)
+<img width="197" height="511" alt="image" src="https://github.com/user-attachments/assets/2fc8b458-4457-46ca-aadd-4f3a21b925fe" />
+
 
 **Fluxo:**  
 Cliente (Swagger / HTTP) → API (Controllers) → EF Core (AppDbContext) → Banco SQLite (XpBetSafe.db)
