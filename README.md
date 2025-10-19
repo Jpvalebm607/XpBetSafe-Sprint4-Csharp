@@ -14,13 +14,13 @@ dotnet run
 \`\`\`
 
 Acesse o Swagger:  
-👉 http://localhost:5086/swagger
+👉 http://localhost:7103/swagger
 
 ---
 
 ## 🧩 Diagrama da Arquitetura
 
-<img width="197" height="511" alt="image" src="https://github.com/user-attachments/assets/2fc8b458-4457-46ca-aadd-4f3a21b925fe" />
+<img width="187" height="501" alt="image" src="https://github.com/user-attachments/assets/2fc8b458-4457-46ca-aadd-4f3a21b925fe" />
 
 
 **Fluxo:**  
